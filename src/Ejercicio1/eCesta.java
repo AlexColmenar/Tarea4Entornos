@@ -145,4 +145,8 @@ public class eCesta {
         System.out.println(bonificacion());
     }
 
+    public double getter() {
+        return extra;
+    }
+
 }
